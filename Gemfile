@@ -20,6 +20,7 @@ gem 'puma', '~> 3.11'
 # gem 'mini_magick', '~> 4.8'
 gem 'jsonapi-serializer'
 gem 'jsonapi_errors_handler'
+gem "octokit", "~> 4.0"
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
